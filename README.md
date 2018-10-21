@@ -18,4 +18,4 @@ Tensorflow Research Cloud granted me 100+5 TPUs for 30 days. I am using TPUs to 
 
 ## Download COCO checkpoints
 
-With this script you can download all models from the table above and upload them into your storage bucket.
+With the script `download_tpu_models_to_gs.sh` you can download all models from the table above and upload them into your storage bucket.
