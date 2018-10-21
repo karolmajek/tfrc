@@ -8,7 +8,7 @@ Tensorflow Research Cloud granted me 100+5 TPUs for 30 days. I am using TPUs to 
 
 
 | Model name  | Speed (ms, TITAN X) | [COCO mAP](http://cocodataset.org/#detection-eval) | FLIR ADAS | Open Images | ERL2018 |
-| ------------ | :--------------: | :--------------: | :--------------: | :--------------: |
+| ------------ | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 | [ssd_mobilenet_v1_0.75_depth_coco](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_0.75_depth_300x300_coco14_sync_2018_07_03.tar.gz) | 26 | 18 | | | |
 | [ssd_mobilenet_v1_quantized_coco](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_quantized_300x300_coco14_sync_2018_07_18.tar.gz) | 29 | 18 | | | |
 | [ssd_mobilenet_v1_0.75_depth_quantized_coco](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_0.75_depth_quantized_300x300_coco14_sync_2018_07_18.tar.gz) | 29 | 16 | | | |
